@@ -1,0 +1,23 @@
+.special-message {
+    position: fixed;
+    z-index: 200;
+    left: 0;
+    bottom: 0;
+    height: 100vh;
+    background: white;
+    color: #000;
+    width: 35px;
+    display: block;
+}
+
+p {
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+    transform: rotate(270deg);
+    justify-content: center;
+    margin-top: 320px;
+    color: #000;
+}

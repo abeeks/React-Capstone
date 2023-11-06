@@ -1,0 +1,42 @@
+.navbar-wrapper {
+    background: transparent;
+    font-size: 12px;
+    position: fixed;
+    top: 0;
+    padding: 10px;
+    width: 100%;
+    height: 30px;
+    z-index: 1;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.search-icon {
+    color: white;
+   
+}
+
+.cart-icon {
+    color: white;
+   
+}
+
+
+.navbar-left {
+  float: left;
+  padding-left: 60px;
+}
+
+.navbar-right {
+   float: right;
+}
+
+.logo {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
